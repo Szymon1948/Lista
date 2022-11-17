@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Książka Kucharska</string>
+    <string-array name="kategorie">
+        <item>napoje</item>
+        <item>desery</item>
+        <item>ciasta</item>
+        <item>ciasteczka</item>
+    </string-array>
+</resources>
